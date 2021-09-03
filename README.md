@@ -1,0 +1,1 @@
+# netlift-test-static
